@@ -1,0 +1,41 @@
+.todobox {
+  text-align: center;
+  margin: 40px;
+  padding: 10px;
+}
+
+.task-item {
+  border: 1px solid #ccc;
+  margin-bottom: 10px; /* Adjust the margin bottom to add space between tasks */
+  padding: 10px; /* Adjust padding inside each task */
+  list-style: none;
+  text-align: left;
+}
+
+.task-item .text {
+  margin-right: 210px; /* Adjust the margin between text and buttons */
+  list-style: none;
+}
+
+.task-item button {
+  margin-left: 10px; /* Adjust the margin between buttons */
+  text-align: center;
+}
+.deletebutton{
+  background-color: rgb(219, 150, 122);
+  text-align: left;
+}
+.completed{
+  background-color: rgb(62, 168, 62);
+  text-align: left;
+}
+
+
+
+
+
+
+
+
+
+
